@@ -10,7 +10,7 @@ My technical skills are :
 - Web Development: JavaScript, HTML, CSS.
 - Frameworks: Node.js, Spring Boot.
 - Databases: MySQL, MongoDB.
-- Cloud Services: AWS (EC2, S3, Lambda).
+<!-- Cloud Services: AWS (EC2, S3, Lambda). -->
 - Software Tools: Android Studio, Visual Studio Code, IntelliJ IDEA, PyCharm, Git, JIRA, Microsoft Office.
 
 
