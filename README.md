@@ -10,29 +10,21 @@
 [![GitHub](https://img.shields.io/badge/GitHub-rajkandula-darkgreen?style=for-the-badge&logo=github)](https://github.com/rajkandula)
 [![Portfolio](https://img.shields.io/badge/Portfolio-charan--raj--kandula.com-orange?style=for-the-badge&logo=web)](https://charan-raj-kandula.com)
 
----
-
+##
 
 ## Summary
 
 Skilled CS graduate, expert in app & web development, passionate about AI & tech research.
 
+
 ## Skills
 
-- **Programming Languages:**
-  - Java, Python, SQL
+- :rocket: Programming Languages: Java, Python, SQL
+- :globe_with_meridians: Web Development: HTML, CSS, JavaScript
+- :gear: Frameworks: NodeJS, Android, WordPress
+- :cloud: Hosting: Firebase, AWS
+- :wrench: Developer Tools: Git, VS Code, PyCharm, IntelliJ, Android Studio
 
-- **Web Development:**
-  - HTML, CSS, JavaScript
-
-- **Frameworks:**
-  - NodeJS, Android, WordPress
-
-- **Hosting:**
-  - Firebase, AWS
-
-- **Developer Tools:**
-  - Git, VS Code, PyCharm, IntelliJ, Android Studio
 
 ## Education
 
