@@ -12,9 +12,6 @@
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kandula-charan-raj) | [GitHub](https://github.com/rajkandula) | [Portfolio](https://charan-raj-kandula.com)
-
----
 
 ## Summary
 
