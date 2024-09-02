@@ -32,7 +32,7 @@ Full-Stack engineer with expertise in JavaScript, React.js, Node.js and more. Pa
 
 
 ### Let's Connect
-📱 LinkedIn: https://www.linkedin.com/in/dillonarnold/
+📱 LinkedIn: https://www.linkedin.com/in/kandula-charan-raj/
 
   
 
