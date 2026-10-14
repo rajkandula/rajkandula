@@ -31,7 +31,7 @@ I studied how the apps I use every day work and rebuilt them from scratch. All M
 ## 3D and games
 
 - **[splatverse](https://github.com/splatverse)**: Gaussian splatting. [splat-studio](https://github.com/splatverse/splat-studio) turns a video into an interactive 3D scene ([live demo](https://splatverse.github.io/splat-studio/)), and [vertex-3d-studio](https://github.com/splatverse/vertex-3d-studio) builds objects out of dots from a description.
-- **[webgl-games](https://github.com/webgl-games)**: games and 3D in the browser: [arcade-3d](https://github.com/webgl-games/arcade-3d), [flight-sim](https://github.com/webgl-games/flight-sim), [opencity](https://github.com/webgl-games/opencity) and [live-3d-cricket](https://github.com/webgl-games/live-3d-cricket).
+- **[webgl-games](https://github.com/webgl-games)**: games and 3D in the browser: [arcade-3d](https://github.com/webgl-games/arcade-3d) ([play it](https://webgl-games.github.io/arcade-3d/)), [flight-sim](https://github.com/webgl-games/flight-sim), [opencity](https://github.com/webgl-games/opencity) and [live-3d-cricket](https://github.com/webgl-games/live-3d-cricket).
 
 ## Learning and AI
 
